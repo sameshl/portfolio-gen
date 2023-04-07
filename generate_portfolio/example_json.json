@@ -1,0 +1,114 @@
+{
+  "data": {
+    "profile_name": "Samesh Lakhotia",
+    "profile_pic_url": "https://media.licdn.com/dms/image/D5603AQFemfBjpP3GQQ/profile-displayphoto-shrink_400_400/0/1664274309459?e=1677715200&v=beta&t=vBI9evpCFf2KC9bjLThp5MM3lupCHg1ol2XBD-TsUMQ",
+    "skill_desc": "Backend, Python, Smart Contracts, etc",
+    "about_me": "Aspiring SWE, passionate, interested in code, blah blah",
+    "projects": [
+      {
+        "title": "GIT - a version control system",
+        "git_url": "https://github.com/sameshl",
+        "proj_image": "https://git-scm.com/images/logos/downloads/Git-Icon-Black.png",
+        "proj_desc": "maybe built a version control system called GIT",
+        "proj_demo": "https://github.com/sameshl"
+      },
+      {
+        "title": "Python",
+        "git_url": "https://github.com/sameshl",
+        "proj_image": "https://cdn-icons-png.flaticon.com/512/5968/5968350.png",
+        "proj_desc": "Did I build Python?",
+        "proj_demo": "https://github.com/sameshl"
+      }
+    ],
+    "experience": [
+      {
+        "position": "Intern",
+        "company": "Big tech",
+        "timeline": "2018-2020",
+        "summary": "Build big products, had a lot of fun"
+      },
+      {
+        "position": "SWE 1",
+        "company": "Small tech",
+        "timeline": "2020-2022",
+        "summary": "Build small products, had a lot of fun"
+      }
+    ],
+    "education": [
+      {
+        "college_name": "BITS Pilani",
+        "degree_name": "Electronics and Communications Engg",
+        "timeline": "2018-2022",
+        "summary": "did undergrad here, chilled and got 10 GPA"
+      },
+      {
+        "college_name": "Avg Ivy League",
+        "degree_name": "MS in CS",
+        "timeline": "2022-2024",
+        "summary": "did not chill and got 10 GPA"
+      }
+    ],
+    "social": {
+      "email": "test1@gmail.com",
+      "twitter_url": "https://twitter.com/samesh_l",
+      "linkedin_url": "https://www.linkedin.com/in/samesh-lakhotia/",
+      "github_url": "https://github.com/sameshl",
+      "stack_overflow_url": "https://github.com/sameshl"
+    },
+    "skills": [
+      {
+        "skill_name": "Python",
+        "skill_level": "Expert"
+      },
+      {
+        "skill_name": "TypeScript",
+        "skill_level": "Pro"
+      }
+    ],
+    "testimonials": {
+      "testimonial_desc": "Amazing guy, fun to work with",
+      "testimonial_name": "Another hooman",
+      "testimonial_cred": "Director at that Big Tech"
+    },
+    "publications": [
+      {
+        "title": "Publication 1",
+        "supervisor": "Supervisor 1",
+        "journal_name": "Journal 3 <3",
+        "publish_date": "2021",
+        "article_link": "https://twitter.com/samesh_l"
+      },
+      {
+        "title": "Publication 2",
+        "supervisor": "Supervisor 2",
+        "journal_name": "Journal 3 <3",
+        "publish_date": "2022",
+        "article_link": "https://twitter.com/samesh_l"
+      }
+    ],
+    "achievements": [
+      {
+        "achievement_title": "Cool af achievement 1",
+        "achievement_description": "vv tough to do",
+        "achievement_date": "2023"
+      },
+      {
+        "achievement_title": "Cool af achievement 2",
+        "achievement_description": "ezpz to do",
+        "achievement_date": "2023"
+      }
+    ],
+    "langs": [
+      {
+        "name": "English",
+        "level": "Native Speaker"
+      },
+      {
+        "name": "Valyrian",
+        "level": "Second Language"
+      }
+    ],
+    "current_location": "Bangalore",
+    "template_no": "1"
+  }
+}
